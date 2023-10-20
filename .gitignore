@@ -137,6 +137,7 @@ venv.bak/
 
 # mkdocs documentation
 /site
+git-cheat-sheet-education.pdf
 
 # mypy
 .mypy_cache/
